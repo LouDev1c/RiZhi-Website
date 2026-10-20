@@ -44,9 +44,9 @@ rizhi-icon.svg           日织应用图标
 
 ```js
 window.RIZHI_SITE_CONFIG = {
-  downloadUrl: 'https://github.com/LouDev1c/RiZhi-Windows/releases/download/v0.6.4/rizhi-setup-0.6.4.exe',
-  version: '0.6.4',
-  publishedAt: '2026-10-14'
+  downloadUrl: 'https://github.com/LouDev1c/RiZhi-Windows/releases/download/v1.0.0/rizhi-setup-1.0.0.exe',
+  version: '1.0.0',
+  publishedAt: '2026-10-20'
 };
 ```
 
